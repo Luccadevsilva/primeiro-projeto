@@ -3,4 +3,4 @@
 
  Meu primeiro projeto, um site de tecnologia.
 
-Acesse seu site <a href="https://luccadevsilva.github.io/primeiro-projeto/site.html">Acesse aqui!</a>
+<a href="https://luccadevsilva.github.io/primeiro-projeto/site.html">Acesse aqui!</a>
