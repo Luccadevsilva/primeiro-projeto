@@ -4,7 +4,7 @@
  Meu primeiro projeto, um site de tecnologia.
 
 <html>
-<a href="https://luccadevsilva.github.io/primeiro-projeto/site.html">Acesse aqui!</a>
+<a href="https://luccadevsilva.github.io/primeiro-projeto/site.html" target="_blank">Acesse aqui!</a>
 
 
 <img src="pacote-projeto-d010\imagens/frame1.png"> 
